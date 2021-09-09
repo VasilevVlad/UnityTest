@@ -1047,6 +1047,7 @@ Transform:
 =======
   m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
 --- !u!1 &1654669357
 GameObject:
   m_ObjectHideFlags: 0
@@ -1294,3 +1295,5 @@ Transform:
   m_RootOrder: 7
 >>>>>>> parent of b405fbf (Обнова)
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+=======
+>>>>>>> parent of 60cafb6 (ОБНОВА)
